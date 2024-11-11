@@ -7,7 +7,7 @@ I'm a frontend engineer based in Lagos state, Nigeria.
 I started learning software engineering in 2022 and this is how far I've come.
 
 *   🌍  I'm based in Lagos, Nigeria
-*   🖥️  See my portfolio at [Rukky's Portfolio](http://michael-portfolio-v3-yrkh.vercel.app)
+*   🖥️  See my portfolio at [Michael's Portfolio](http://michael-portfolio-v3-yrkh.vercel.app)
 *   ✉️  You can contact me at [michaelomonedo001@gmail.com](mailto:michaelomonedo001@gmail.com)
 *   🧠  I'm learning backend engineering and python currently
 *   🤝  I'm open to collaborating on any frontend project
