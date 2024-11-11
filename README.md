@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michael Rukevwe Omonedo
 ===============================================================================================================================================
 
-I'm an aspiring fullstack engineer but I am frontend heavy at the moment
+I'm a frontend engineer with 2 years worth of experience. 
 ------------------------------------------------------------------------
 
 I started learning software engineering in 2022 and this is how far I've come.
