@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a frontend engineer based in Lagos state, Nigeria. 
 ------------------------------------------------------------------------
 
-I started learning software engineering in 2022 and this is how far I've come.
+I'm a self thought software engineer and this is how far I've come.
 
 *   🌍  I'm based in Lagos, Nigeria
 *   🖥️  See my portfolio at [Michael's Portfolio](http://michael-portfolio-v3-yrkh.vercel.app)
