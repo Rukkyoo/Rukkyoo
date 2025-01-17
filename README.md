@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Michael Omonedo</h1>
-<h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
+<h1 align="center">Hi there👋, I'm Michael Omonedo</h1>
+<h3 align="center">I'm a self taught frontend developer from Lagos, Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukkyoo&label=Profile%20views&color=0e75b6&style=flat" alt="rukkyoo" /> </p>
 
@@ -7,19 +7,19 @@
 
 - 🌱 I’m currently learning **backend development with nodejs and express**
 
-- 👯 I’m looking to collaborate on **any frontend project**
+- 👯 I’m looking to collaborate on **any software development project**
 
 - 👨‍💻 All of my projects are available at [https://michael-portfolio-v3-yrkh.vercel.app/](https://michael-portfolio-v3-yrkh.vercel.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **styling with css**
 
-- 📫 How to reach me **michaelomonedo001@gmail.com**
+- 📫 You can reach me at **michaelomonedo001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YmeNtj-uGiJX3-KSTVdsH85CpCBAlssq/view?usp=sharing](https://drive.google.com/file/d/1YmeNtj-uGiJX3-KSTVdsH85CpCBAlssq/view?usp=sharing)
 
 - ⚡ Fun fact **I love playing fc ultimate team!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Check out my socials:</h3>
 <p align="left">
 <a href="https://twitter.com/wazzaaah_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wazzaaah_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/michael-omonedo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micheal omonedo" height="30" width="40" /></a>
