@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Michael Omonedo</h1>
-<h3 align="center">I'm a self taught frontend developer from Lagos, Nigeria</h3>
+<h3 align="center">I'm a self taught fullstack developer from Lagos, Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukkyoo&label=Profile%20views&color=0e75b6&style=flat" alt="rukkyoo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rukkyoo" alt="rukkyoo" /></a> </p>
 
-- 🌱 I’m currently learning **backend development with nodejs and express**
+- 🌱 I’m currently improving my **backend development skills with nodejs and express**
 
 - 👯 I’m looking to collaborate on **any software development project**
 
