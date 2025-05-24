@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Michael Omonedo</h1>
-<h3 align="center">I'm a self taught fullstack developer from Lagos, Nigeria</h3>
+<h3 align="center">I'm a self taught fullstack developer based in Lagos, Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukkyoo&label=Profile%20views&color=0e75b6&style=flat" alt="rukkyoo" /> </p>
 
@@ -8,8 +8,6 @@
 - 🌱 I’m currently improving my **backend development skills with nodejs and express**
 
 - 👯 I’m looking to collaborate on **any software development project**
-
-- 👨‍💻 All of my projects are available at [https://michael-portfolio-v3-yrkh.vercel.app/](https://michael-portfolio-v3-yrkh.vercel.app/)
 
 - 💬 Ask me about **styling with css**
 
