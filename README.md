@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Michael Omonedo</h1>
-<h3 align="center">I'm a self taught fullstack developer based in Lagos, Nigeria</h3>
+<h3 align="center">I'm a self taught frontend developer based in Lagos, Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukkyoo&label=Profile%20views&color=0e75b6&style=flat" alt="rukkyoo" /> </p>
 
