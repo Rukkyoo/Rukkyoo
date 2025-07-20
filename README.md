@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rukkyoo" alt="rukkyoo" /></a> </p>
 
-- 🌱 I’m currently improving my **backend development skills with nodejs and express**
+- 🌱 I’m currently improving my **cloud engineering skills with Altschool Africa**
 
 - 👯 I’m looking to collaborate on **any software development project**
 
