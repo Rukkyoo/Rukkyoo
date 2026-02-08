@@ -1,9 +1,6 @@
 <h1 align="center">Hello there👋, I'm Michael Omonedo</h1>
 <h3 align="center">I'm a self taught frontend developer based in Lagos, Nigeria</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rukkyoo&label=Profile%20views&color=0e75b6&style=flat" alt="rukkyoo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rukkyoo" alt="rukkyoo" /></a> </p>
+<p align="center"><img width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp2NTBnNmR5bXQ1em9pZzA4MW9qbDZicHJnc21rMTNmd3Q1OWZjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mP8YqtjCNOB9HLyrn0/giphy.gif" alt+"Michael Scott waving gif"/></p>
 
 - 🌱 I’m currently improving my **cloud engineering skills with Altschool Africa**
 
@@ -63,12 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rukkyoo&show_icons=true&locale=en&layout=compact" alt="rukkyoo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rukkyoo&show_icons=true&locale=en" alt="rukkyoo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rukkyoo&" alt="rukkyoo" /></p>
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+
