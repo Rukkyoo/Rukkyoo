@@ -2,8 +2,6 @@
 <h3 align="center">I'm a self taught frontend developer based in Lagos, Nigeria</h3>
 <p align="center"><img width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp2NTBnNmR5bXQ1em9pZzA4MW9qbDZicHJnc21rMTNmd3Q1OWZjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mP8YqtjCNOB9HLyrn0/giphy.gif" alt+"Michael Scott waving gif"/></p>
 
-- 🌱 I’m currently improving my **cloud engineering skills with Altschool Africa**
-
 - 👯 I’m looking to collaborate on **any software development project**
 
 - 💬 Ask me about **styling with css**
